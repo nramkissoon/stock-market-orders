@@ -1,4 +1,3 @@
-import { Order } from './order'
 import { POSITION_TYPES, ORDER_TYPES } from './constants'
 
 export const isMktOrder = (order: Order) => {

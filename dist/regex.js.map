@@ -1,1 +1,1 @@
-{"version":3,"file":"regex.js","sourceRoot":"","sources":["../src/regex.ts"],"names":[],"mappings":";;;AAAa,QAAA,8BAA8B,GAAG,iCAAiC,CAAA;AAClE,QAAA,+BAA+B,GAAG,kCAAkC,CAAA"}
+{"version":3,"file":"regex.js","sourceRoot":"","sources":["../src/regex.ts"],"names":[],"mappings":";;;AAAa,QAAA,8BAA8B,GAAG,mCAAmC,CAAA;AACpE,QAAA,+BAA+B,GAAG,oCAAoC,CAAA"}
